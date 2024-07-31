@@ -1,4 +1,4 @@
-class Sub
+class sub
 {
     public static void main(String s[])
     {
